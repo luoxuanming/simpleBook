@@ -1,0 +1,5 @@
+export const CHANGE_PAGE = "Home/CHANGE_PAGE"
+export const CHANGE_LIST = "Home/CHANGE_LIST"
+export const CHANGE_HOME_DATA = "HOME/CHANGE_HOME_DATA"
+export const ADD_HOME_LIST = "HOME/ADD_HOME_LIST"
+export const TOGGLE_SCROLL_TOP = "HOME/TOGGLE_SCROLL_TOP"
